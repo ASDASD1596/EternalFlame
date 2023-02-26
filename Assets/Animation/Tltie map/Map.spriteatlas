@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Map
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1940567512778423882, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 6546471656589480134, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 3097767268049442772, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 6537713904320315110, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -8026976605452319936, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -5687024544738123622, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -7002040975835303177, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -292082602540834504, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -676818142582052687, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 6842365467287209099, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -7210909557696598282, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 5109384818491123847, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -6946016343337694078, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 6726627349261761016, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -6288924524895641758, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -691103356602537733, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -2467886592055353860, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -1763413892070004613, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -2193763202416894670, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 1941486720615342933, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -1805595184838552195, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -7048231795495655446, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 3291734660691440179, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 4680249570693461556, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 639664210233490690, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -3854586094344771125, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -6331277281268103037, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 6050526971267679216, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 8565718590048267357, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -6773075818494414863, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 4666144910968757283, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -5074948320907969732, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -3069155777873751204, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 8628599140259464392, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 2611951387916566714, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -8466158805445850701, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 8584092479464863662, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 2519805546692103444, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 3934591575981244464, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: 1672961045976227569, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -4161186787489134451, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  - {fileID: -8666663133298929384, guid: 1e4fc804d078ac347999a0bc476f0bd3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - etenalflame1
+  - stoneplatform
+  - etenalflame3
+  - etenalflame2
+  - case
+  - closechest
+  - skeleton
+  - stoneplatformstraight
+  - eternalflame_tile_set_36
+  - eternalflame_tile_set_35
+  - eternalflame_tile_set_34
+  - eternalflame_tile_set_33
+  - spikedown
+  - sign
+  - stoneplatfor
+  - spikeup
+  - BG
+  - shortplatform
+  - blockout6
+  - blockout7
+  - blockout4
+  - blockout5
+  - blockout2
+  - blockout3
+  - stoneplatform1
+  - blockout1
+  - blockout8
+  - spikeright
+  - spikeleft
+  - shortstoneplatform
+  - block2
+  - block3
+  - block1
+  - block6
+  - block7
+  - block4
+  - block5
+  - block8
+  - block9
+  - chain
+  - openchest
+  - etenalflame4
+  m_RenderDataMap: {}
+  m_Tag: Map
+  m_IsVariant: 0
