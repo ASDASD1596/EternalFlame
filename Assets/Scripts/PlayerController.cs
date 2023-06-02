@@ -25,7 +25,7 @@ public class PlayerController : MonoBehaviour
     public Transform feetPos;
     public Vector2 radiusCheck;
     public LayerMask groundMask;
-    public bool canMove = true;
+    public bool canMove = true
     public bool canJump = true;
     private Vector3 respawnPoint;
     private bool Dead = false;
@@ -48,7 +48,7 @@ public class PlayerController : MonoBehaviour
 
 
 
-    void Updated()
+    void Update()
     {
         if (canMove == true)
         {
