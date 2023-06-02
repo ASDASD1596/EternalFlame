@@ -48,7 +48,7 @@ public class PlayerController : MonoBehaviour
 
 
 
-    void Update()
+    void Updated()
     {
         if (canMove == true)
         {
